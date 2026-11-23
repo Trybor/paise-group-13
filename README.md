@@ -25,4 +25,7 @@ Eine im Semester umsetzbare Web-App, mit der man
 
 - [docs/requirements.md](docs/requirements.md): User Stories, Anforderungen, Priorisierung
 - [docs/mvp.md](docs/mvp.md): MVP-Scope
+- [docs/architecture.md](docs/architecture.md): Architektur, Diagramme, Datenmodell, API
+- [docs/adr/](docs/adr/): Architekturentscheidungen
+- [docs/hosting.md](docs/hosting.md): Hosting-Vergleich und Entscheidung
 - [docs/ai-usage.md](docs/ai-usage.md): AI-Einsatz und Reflexion
