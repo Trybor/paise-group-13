@@ -100,4 +100,5 @@ Prüffrage für Must: *„Ist das Produkt ohne diese Story noch nutzbar?“* Nur
 | „Schwierigkeit“ und „visuelle Statistik“ waren nicht definiert. | Konkretisiert in US-07 und US-11. |
 | „Leute kicken“ stand doppelt. | Zusammengeführt in US-09. |
 | Wer stellt im Multiplayer Zeit und Sprache ein? | Im MVP gelten die Standardeinstellungen für alle. |
-| Was passiert, wenn der Host geht? | Die Lobby endet (US-05). |
+| Was passiert, wenn der Host geht? | Die Lobby endet (US-05). Verliert der Host nur kurz die Verbindung (z. B. durch Neuladen der Seite), bleibt die Lobby 10 s erhalten. Kommt er in dieser Zeit zurück, bleibt er Host. |
+| Was passiert bei einem Beitritt während einer laufenden Runde? | Die Person tritt der Lobby bei und spielt ab der nächsten Runde mit. |
